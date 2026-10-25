@@ -12,6 +12,8 @@
 ## İndir (Python gerekmez)
 [**MoonStar-Windows.zip**](https://github.com/mermer98/moonstar-turkce-dil-kilavuzu/releases/latest/download/MoonStar-Windows.zip) dosyasını indirin, klasöre çıkarın, `MoonStar.exe` dosyasına çift tıklayın.
 
+> **Windows uyarısı:** Program imzasız olduğu için Windows SmartScreen *"Windows bilgisayarınızı korudu"* uyarısı gösterebilir. **Ek bilgi → Yine de çalıştır** deyin. Program güvenlidir; kodun tamamı bu depoda açıktır.
+
 ## Kaynaktan çalıştırma
 ```
 pip install -r requirements.txt
