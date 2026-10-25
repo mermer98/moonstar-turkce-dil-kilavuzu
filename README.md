@@ -2,6 +2,13 @@
 
 1990'ların MoonStar MTU Sözlük programının görünümünü ve çalışma mantığını yeniden kuran masaüstü uygulaması.
 
+![Ana pencere](screenshots/ana-pencere.png)
+
+<p>
+<img src="screenshots/es-anlamlilar.png" width="49%" alt="Türkçe Eş Anlamlılar">
+<img src="screenshots/adam-asma.png" width="49%" alt="Adam Asma">
+</p>
+
 ```
 pip install -r requirements.txt
 python main.py
