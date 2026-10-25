@@ -33,3 +33,6 @@ Veritabanları bu depoda `data/` klasöründe hazır gelir (`moonstar_all.sqlite
 ## Dosyalar
 `main.py` başlatıcı · `data.py` veri katmanı · `audio_player.py` ses · `theme.py` temalar · `icons.py` çizilmiş görseller ·
 `*_dialog.py` pencereler · `widgets.py` ortak bileşenler.
+
+## Lisans
+MIT, bkz. [LICENSE](LICENSE).
