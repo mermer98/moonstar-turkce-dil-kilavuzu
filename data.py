@@ -4,12 +4,13 @@ from __future__ import annotations
 import random
 import re
 import sqlite3
+import sys
 import threading
 from bisect import bisect_left
 from datetime import datetime
 from pathlib import Path
 
-APP_DIR = Path(__file__).resolve().parent
+APP_DIR = Path(sys.executable).parent if getattr(sys, "frozen", False) else Path(__file__).resolve().parent
 
 
 def _find_data_dir() -> Path:

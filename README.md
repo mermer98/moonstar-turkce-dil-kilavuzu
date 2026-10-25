@@ -9,6 +9,10 @@
 <img src="screenshots/adam-asma.png" width="49%" alt="Adam Asma">
 </p>
 
+## İndir (Python gerekmez)
+[**MoonStar-Windows.zip**](https://github.com/mermer98/moonstar-turkce-dil-kilavuzu/releases/latest/download/MoonStar-Windows.zip) dosyasını indirin, klasöre çıkarın, `MoonStar.exe` dosyasına çift tıklayın.
+
+## Kaynaktan çalıştırma
 ```
 pip install -r requirements.txt
 python main.py
